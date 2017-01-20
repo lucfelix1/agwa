@@ -1,1 +1,2 @@
 First doc for Git training purpose
+Modified by user 2
