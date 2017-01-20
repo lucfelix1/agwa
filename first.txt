@@ -1,2 +1,4 @@
 First doc for Git training purpose
 Modified by user 2
+
+then modified by user2 again
