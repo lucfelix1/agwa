@@ -1,4 +1,6 @@
 First doc for Git training purpose
 Modified by user 2
 
-then modified by user2 again
+
+then modified by user1 and user2 and then conflict manually fixed
+
